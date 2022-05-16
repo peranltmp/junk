@@ -4,3 +4,7 @@ plot(x,y)
 summary(x)
 median(x)
 
+summary (y)
+barplot (y,x)
+
+
